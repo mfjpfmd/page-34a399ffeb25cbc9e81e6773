@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "047c1b7030d8bc2687d6569c",
+  "owner": "mfjpfmd",
+  "repo": "page-34a399ffeb25cbc9e81e6773",
+  "title": "fly云(flycloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "34a399ffeb25cbc9e81e6773",
+      "a": "fly云(flycloud)",
+      "b": "",
+      "entity": "fly云(flycloud)",
+      "brand": "fly云(flycloud)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "81b91ae4ba1f14b7fa83c4a6f95db5529c3759f6ef5c06aab2024a561c705136",
+      "content": {
+        "keyword1": "fly云(flycloud)",
+        "keyword2": "",
+        "primary_entity": "fly云(flycloud)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "fly云(flycloud)是专业网络加速服务商，提供高稳定性机场订阅套餐、多平台客户端下载与详细配置流程，助力用户畅享全球网络、流媒体解锁与游戏加速，欢迎访问官网获取最新方案。",
+          "AI_DESCRIPTION": "fly云(flycloud)是专业网络加速服务商，提供高稳定性机场订阅套餐、多平台客户端下载与详细配置流程，助力用户畅享全球网络、流媒体解锁与游戏加速，欢迎访问官网获取最新方案。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;padding:0;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#0a1628;color:#e8f4f8;line-height:1.65;font-size:16px;overflow-x:hidden}header{background:#12263a;padding:12px 16px;border-bottom:3px solid #00b4d8}nav ul{display:flex;flex-wrap:wrap;gap:8px 16px;list-style:none;padding:0;margin:0;justify-content:center}nav a{color:#90e0ef;font-size:0.92rem}main{max-width:920px;margin:0 auto;padding:8px 16px 32px}h1{font-size:1.65rem;color:#caf0f8;text-align:center;margin:18px 0 16px;line-height:1.35}h2{font-size:1.28rem;color:#00b4d8;margin:28px 0 12px;padding-left:10px;border-left:4px solid #00b4d8}h3{font-size:1.05rem;color:#48cae4;margin:16px 0 8px}p{margin:0 0 12px}a{color:#48cae4;text-decoration:none}a:hover{text-decoration:underline}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:14px 0 8px}.card{flex:1 1 240px;background:#152535;border:1px solid #1c3d5a;border-radius:8px;padding:16px;min-width:0}.card.featured{border:2px solid #00b4d8;background:#163044}.price{font-size:1.45rem;font-weight:700;color:#90e0ef;margin:6px 0 2px}.annual{font-size:0.84rem;color:#48cae4;margin-bottom:10px}.features{padding-left:18px;margin:8px 0 12px}.badge{display:inline-block;background:#00b4d8;color:#0a1628;font-size:0.72rem;padding:2px 7px;border-radius:3px;font-weight:700;margin-bottom:6px}details{background:#132337;border:1px solid #1c3d5a;border-radius:6px;margin:8px 0;padding:2px 14px 12px}summary{padding:10px 0;font-weight:600;color:#90e0ef}footer{background:#12263a;padding:18px 16px;text-align:center;font-size:0.88rem;color:#90e0ef;border-top:1px solid #1e3a5f;margin-top:12px}.ad-box{background:#163044;border:1px dashed #00b4d8;padding:14px;text-align:center;margin:12px 0;border-radius:6px}.links,.sitemap{line-height:1.8}.links a,.sitemap a{margin-right:14px;white-space:nowrap}@media (max-width:620px){h1{font-size:1.38rem}nav a{font-size:0.85rem}.card{flex-basis:100%}}</style><header><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#guide\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li></ul></nav></header><main><h1>fly云(flycloud) 官方网站 · 高速机场订阅与VPN网络加速</h1><p>fly云(flycloud)专注提供稳定可靠的网络加速服务，覆盖机场订阅、多端客户端支持与全球节点优化，帮助用户轻松实现跨境访问、流媒体畅看与低延迟游戏体验。</p><section id=\"intro\"><h2>品牌简介</h2><p>fly云(flycloud) 是面向个人与团队的专业网络加速平台。我们整合优质线路资源，提供灵活的机场订阅与VPN加速器服务，让用户轻松获得高速梯子网络体验。无论是日常浏览、学术研究还是娱乐需求，fly云都致力于成为您信赖的官方加速伙伴。</p><p>服务涵盖标准节点与专线优化，支持主流代理协议，兼容 Clash、Shadowrocket、Quantumult X、v2rayN、Surge 等客户端。官方网站集中展示套餐详情、配置教程与下载指引，方便用户快速上手并完成客户端配置。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>全球流媒体与内容解锁</h3><p>通过 fly云 节点观看 Netflix、Disney+、YouTube、HBO 等平台内容，旗舰版提供原生解锁线路，减少缓冲，提升画质体验，适合长期追剧与资讯获取。</p><h3>游戏加速与低延迟对战</h3><p>IPLC 专线优化针对热门游戏区域，降低丢包与延迟，适合需要稳定连接的玩家。团队版提供更高带宽节点，减少高峰期拥堵。</p><h3>跨境办公与在线学习</h3><p>稳定访问海外协作工具、云服务、学术数据库与在线课程，保障视频会议流畅，资料下载高效，减少因网络波动导致的中断。</p><h3>多设备日常加速</h3><p>手机、电脑、平板同时在线，家庭或小团队共享套餐流量，满足日常社交媒体、资讯获取与隐私保护需求，一套订阅覆盖常用设备。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>fly云提供三种清晰套餐，满足不同流量与设备需求。所有套餐均支持按月或按年订阅，年付享优惠。选择后即可获取专属订阅链接，用于各平台客户端导入。建议根据实际使用强度选择，避免流量不足或资源闲置。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看配置流程</a></p></div><div class=\"card featured\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#guide\">立即了解配置</a></p></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#guide\">企业配置说明</a></p></div></div></section><section id=\"guide\"><h2>操作说明与配置流程</h2><p>fly云强调简洁高效的配置体验。完成套餐订阅后，按照以下步骤即可在各平台启用加速。整个流程通常只需几分钟，新手也可对照完成。配置的核心是获取订阅链接并正确导入客户端。</p><h3>第一步：获取机场订阅链接</h3><p>在 fly云官网完成套餐选择与支付后，用户中心会生成专属订阅 URL。复制该链接，后续导入客户端使用。请妥善保管订阅地址，勿公开分享，以免流量被占用或产生安全风险。</p><h3>第二步：下载并安装客户端</h3><p>根据设备选择对应客户端。Windows 推荐 Clash for Windows 或 Clash Verge；macOS 可用 ClashX 或 Surge；iOS 常用 Shadowrocket 或 Quantumult X；Android 可选 Clash Meta for Android 或 v2rayNG。请从官方仓库或可信应用商店获取，确保版本较新，不要安装来路不明的修改包。</p><h3>第三步：导入订阅配置</h3><p>打开客户端，找到订阅或配置管理入口，粘贴 fly云提供的订阅链接，点击更新。部分客户端支持二维码扫描导入。更新成功后即可看到节点列表。若提示失败，检查链接完整性与网络环境后再试。</p><h3>第四步：选择节点并连接</h3><p>根据需求选择延迟较低或专线节点。游戏场景优先 IPLC 或游戏优化节点；流媒体选择解锁节点。开启系统代理或 TUN 模式，测试连通性。可先用浏览器访问常用站点确认是否生效。</p><h3>第五步：日常维护与优化</h3><p>定期在客户端更新订阅以获取最新节点。如遇个别节点不稳定，切换其他线路。关注流量使用情况，接近限额时可升级套餐。遇到问题可通过工单联系支持，旗舰版与团队版享有更优先的响应。</p></section><section id=\"download\"><h2>客户端下载指引</h2><p>fly云(flycloud) 不绑定单一客户端，全面兼容主流开源与商业代理工具，方便用户按习惯选择。以下为常见平台推荐，下载时请认准官方来源，避免第三方修改包带来的安全风险。本站提供配置说明，客户端安装包请自行从对应项目主页获取，官网侧重订阅与使用教程。</p><h3>桌面端</h3><p>Windows：Clash for Windows、v2rayN、Clash Verge Rev。macOS：ClashX Meta、Surge。Linux：Clash Premium 或 Mihomo。安装后按配置流程导入订阅即可使用 fly云 节点。</p><h3>移动端</h3><p>iOS：Shadowrocket、Quantumult X、Stash（需非国区账号）。Android：Clash Meta、NekoBox、v2rayNG。HarmonyOS 可参考 Android 方案。导入后建议开启分流规则，兼顾国内直连与境外加速。</p><p>导入 fly云订阅后即可使用全部已购节点。如客户端界面有「订阅」或「Profiles」栏目，直接添加 URL 即可。更多细节见上方配置流程，遇到界面差异可对照软件内帮助文档。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>fly云(flycloud) 是官方机场服务吗？如何保证安全？</summary><p>fly云是专注网络加速的服务品牌，通过官网提供套餐与订阅。我们强调使用标准协议与主流客户端，建议用户仅从可信渠道下载软件，并定期更新。官方身份以本站信息与订阅后台为准，请勿轻信非官网渠道的所谓低价或破解来源，以免造成账号或设备风险。</p></details><details><summary>各套餐流量和设备数具体怎么算？年付有什么好处？</summary><p>基础版每月 100GB、最多 3 台设备同时在线；旗舰版 300GB、5 台设备，含更好解锁与 IPLC；团队版 1000GB、20 台。流量按订阅周期重置。年付价格相当于每月更低，适合长期使用，且减少续费操作。具体以购买时页面显示为准，可按实际用量在后续周期调整。</p></details><details><summary>如何导入订阅？Clash 和 Shadowrocket 操作有区别吗？</summary><p>通用方式是复制订阅链接，在客户端的订阅管理中新增并更新。Clash 系通常在 Profiles 添加 URL 后 Download。Shadowrocket 点击右上角扫描或粘贴链接。Quantumult X 需在节点订阅处添加。导入后选择规则模式效果更佳。详细分步见本页配置流程，按软件界面提示操作即可。</p></details><details><summary>fly云能解锁 Netflix、ChatGPT 或游戏加速吗？</summary><p>旗舰版强调全节点原生流媒体解锁，覆盖常见国际平台。游戏方面提供 IPLC 专线优化，降低延迟。具体解锁效果因节点与平台策略而异，建议选择对应优化线路。基础版提供基础流媒体支持。访问 AI 服务取决于节点质量，优质线路通常更稳定，可多试几条节点。</p></details><details><summary>连接失败或速度慢时该如何处理？</summary><p>首先更新订阅获取最新节点，切换其他线路测试。检查本地网络、关闭可能冲突的防火墙或杀毒软件。确认客户端模式正确（系统代理或增强模式）。若持续异常，通过优先工单（旗舰及以上）反馈节点名称与错误信息，客服会协助排查。避免长期使用过期配置。</p></details><details><summary>支持退款或套餐更换吗？多设备超限会怎样？</summary><p>具体售后政策以购买时说明为准。一般支持在未大量使用流量的短时间内协商处理。升级套餐通常可补差价。同时在线设备超过套餐上限时，新设备可能无法连接或挤占已有会话，建议按实际终端数量选择版本。团队版有专属客户经理，沟通更便捷。</p></details><details><summary>在哪里可以获取最新官网信息和客户端更新提醒？</summary><p>请收藏本官方网站页面，套餐、节点说明与教程更新会在此同步。客户端本身请关注各开源项目的发布页以获取安全更新。fly云侧重点在订阅稳定性与线路质量，配合用户自行维护客户端版本，二者结合才能获得更顺畅的加速体验。</p></details></section><section id=\"ads\"><h2>合作推广</h2><div class=\"ad-box\">fly云(flycloud) 高速节点持续优化中，立即选择适合您的套餐，开启稳定网络加速体验。官方配置教程全程指导，新手也能快速完成机场订阅与客户端导入。</div></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">Clash 项目文档</a><a href=\"#\">Mihomo 说明</a><a href=\"#\">v2ray 资源</a><a href=\"#\">网络加速社区</a><a href=\"#\">流媒体解锁指南</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"sitemap\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作推广</a><a href=\"#links\">友情链接</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© fly云(flycloud) 官方网站 · 网络加速与机场订阅服务</p><p>本站提供套餐介绍、配置流程与客户端使用说明，帮助用户安全、高效地使用加速服务。请通过正规渠道获取软件，并妥善保管个人订阅信息。</p></footer>",
+          "hash": "c2bdd11b70d6ff70fc41a492e0d5a1d9f1e596f366113438f365a733e3f4df2e",
+          "seo": {
+            "title": "fly云(flycloud)官方网站 - VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "fly云,flycloud,fly云机场,fly云VPN,机场订阅,VPN,梯子,网络加速,加速器,客户端下载,官网下载,Clash,Shadowrocket",
+            "description": "fly云(flycloud)是专业网络加速服务商，提供高稳定性机场订阅套餐、多平台客户端下载与详细配置流程，助力用户畅享全球网络、流媒体解锁与游戏加速，欢迎访问官网获取最新方案。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sgrdt.cn",
+    "host": "p-10ee3e8874.sgrdt.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "sgrdt.cn",
+      "url": "https://sgrdt.cn/",
+      "label": "日不落",
+      "apex": "sgrdt.cn",
+      "kind": null,
+      "identity": "rywytw3jm/page-1e14c20f28489feb7eb5255d"
+    },
+    {
+      "host": "mvimru.com",
+      "url": "https://mvimru.com/",
+      "label": "fly云(flycloud)",
+      "apex": "mvimru.com",
+      "kind": null,
+      "identity": "ureab8q9j/page-5b476a8a51b1c6b1bd4658db"
+    },
+    {
+      "host": "xingkametal.com",
+      "url": "https://xingkametal.com/",
+      "label": "fly云(flycloud)",
+      "apex": "xingkametal.com",
+      "kind": null,
+      "identity": "dytj76/page-ac9697b7e4f05eda6d06961f"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "795f1f8f6062f455372d52d14f6051f1db4ee96c73466ba6e68718b0ed34ebd6",
+    "sitemap.xml": "460b606efd654af4d7b5b8bd75b21459ce91b9bd214780f496241c845bafc5aa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1a2c75023f6a22c7543ebf1a7903382931ff1c8a4fb95f5d3be4e7cd0b8b2c8e",
+    "robots.txt": "033082c484d4ebfab7e89c67e86ccebbcf895536197cb102ff5cda0e38b85747",
+    "480b7b8e0bc1427f99e9a4843fa6a6e9.txt": "9466bde282a557f9d08b6c0cac694576bf994f1ae8493680374628ce92ce4f1a"
+  },
+  "revision": "ae97285fdf4f6f15240f8e1d9bc72329cd3ff02987260e6a0f05ecd80ae149c8"
+}
